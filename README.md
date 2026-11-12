@@ -29,7 +29,7 @@ El proyecto está preparado para desplegarse como sitio estático en Vercel desd
 
 El enlace principal para mostrar el portafolio al profesor o a cualquier persona es la URL pública de Vercel, por ejemplo:
 
-`https://portafolio-profesional-tu-usuario.vercel.app`
+`https://mi-portafolio-blue-ten.vercel.app`
 
 Si el proyecto ya tiene dominio propio, usa ese enlace en su lugar.
 
