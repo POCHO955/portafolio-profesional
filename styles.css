@@ -302,34 +302,6 @@ a {
   transform: scale(1.04);
 }
 
-.metrics {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.6rem;
-  margin-top: 0.85rem;
-  position: relative;
-  z-index: 1;
-}
-
-.metric {
-  background: rgba(11, 17, 14, 0.75);
-  border: 1px solid var(--border);
-  border-radius: 14px;
-  padding: 0.85rem 0.6rem;
-  text-align: center;
-}
-
-.metric strong {
-  display: block;
-  font-size: 1.15rem;
-  color: var(--text);
-}
-
-.metric span {
-  color: var(--muted);
-  font-size: 0.8rem;
-}
-
 .section {
   padding: 2.5rem 0 3rem;
 }
